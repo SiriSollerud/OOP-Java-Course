@@ -1,0 +1,29 @@
+# Pasienter (navn, fnr)
+Jens Hans Olsen,11111143521
+Petrolina Swiq,24120099343
+Sven Svendsen,10111224244
+Juni Olsen,21049563451
+# Legemidler (navn,type,pris,virkestoff,[styrke])
+0Predizol,narkotisk,450,75,8
+1Paralgin Forte,vanedannende,65,400,5
+2Placebo Pianissimo,vanlig,10,0
+3poopodol,narkotisk,420,15,2
+4abba,vanedannende,6,40,5
+5pabba,vanedannende,5,4080,5
+6cabba,vanedannende,2,4040,51
+7Ibux,vanlig,240,200
+# Leger (navn,kontrollid / 0 hvis vanlig lege)
+Dr. Cox,0
+Dr. Wilson,0
+Dr. House,12345
+Dr. Hillestad Lovold,0
+# Resepter (legemiddelNummer,legeNavn,pasientID,type,[reit])
+1,Dr. Cox,2,hvit,7
+2,Dr. Hillestad Lovold,3,blaa,1000
+0,Dr. House,1,militaer,12
+4,Dr. Hillestad Lovold,3,p
+5,Dr. Hillestad Lovold,3,p
+5,Dr. Hillestad Lovold,3,p
+6,Dr. Hillestad Lovold,3,p
+3,Dr. Hillestad Lovold,3,p
+
